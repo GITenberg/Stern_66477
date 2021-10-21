@@ -1,11 +1,16 @@
 _repo: Stern_66477
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66477-h/images/cover.jpg
 creator:
   author:
     agent_name: Friedman, Bruce Jay
     gutenberg_agent_id: '53829'
     url: http://www.gutenberg.org/2009/agents/53829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66477#Stern
 gutenberg_issued: '2021-10-06'
 identifiers:
   gutenberg: '66477'
